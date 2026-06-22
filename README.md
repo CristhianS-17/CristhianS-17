@@ -1,16 +1,26 @@
-## Hi there 👋
+✌🏼 Hola, soy Cristhian Silva 😬
 
-<!--
-**CristhianS-17/CristhianS-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full-Stack con experiencia en Python, JavaScript, HTML, CSS, Rénder, Flask y React. Orientado al aprendizaje continuo, resolución de problemas y trabajo en equipo, y especial interés y enfoque en el desarrollo backend. 
 
-Here are some ideas to get you started:
+🧠 Tecnologias: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🦎 Phyton 
+⚛️ React
+💻 JavaScript
+🎨 CSS
+💾 SQL
+🔑 JWT
+🕦 Git | GitHub
+🏷️ HTML5
+🌐 Flask
+
+
+📂 Proyectos: 
+
+•🏃🏽‍➡️ RunBound - App Full-Stack para corredores que estan en busca de nuevas carreras en distintas ciudades. https://github.com/CristhianS-17/Proyecto-Final-AYCRunnig.git
+  
+•🚀 BlogStarWars - Blog de StarWars con datos de diferentes personajes y planetas. 
+https://github.com/CristhianS-17/StarWars-CristhianS-17.git
+
+
+
